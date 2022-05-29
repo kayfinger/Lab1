@@ -1,0 +1,26 @@
+ boot /stand/vmunix -lm
+
+/sbin/init.d/nfs.client stop
+
+/sbin/init.d/nfs.client start
+
+/sbin/init.d/nfs.server start
+
+/sbin/init.d/nfs.server stop
+
+08033377359
+
+A-0434394 UPS Done
+A-0434411 NSE
+A-0350110 NNPC
+A-0434447 PPension	Done
+A-0439500 Sterling Bank
+
+http://www.dltk-kids.com/t.asp?t=http://www.dltk-kids.com/crafts/transportation/images/bposterairplane.gif
+
+http://www.dltk-kids.com/crafts/transportation/mtransposter.html
+
+http://www.coloring.ws/transportation.htm
+
+2023208269
+
